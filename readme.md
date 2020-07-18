@@ -12,8 +12,9 @@
 
 * HTML
 * CSS
-* JS 
+* Javascript
+* jquerry-3.5.1
 
 ## LICENCE
 
-* MIT 
+* MIT Copyright (c) 2020 Oliver Otiato

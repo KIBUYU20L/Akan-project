@@ -15,6 +15,10 @@
 * Javascript
 * jquerry-3.5.1
 
+## LIVE LINK
+
+* https://kibuyu20l.github.io/Akan-project
+
 ## LICENCE
 
 * MIT Copyright (c) 2020 Oliver Otiato
